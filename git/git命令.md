@@ -1,3 +1,6 @@
+在vscode中，基本的git命令都有了图形化操作页面，以下命令用于以防万一
+
+
 **git config**
 
 用法：git config –global user.name “[name]”
